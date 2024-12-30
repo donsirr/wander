@@ -6,7 +6,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-stretch: normal;
-	src: url('/public/fonts/century_supra_t3_regular.woff') format('woff');
+	src: url('/wander/public/fonts/century_supra_t3_regular.woff') format('woff');
 }
 
 @font-face {
@@ -14,7 +14,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-stretch: normal;
-	src: url('/public/fonts/century_supra_t3_italic.woff') format('woff');
+	src: url('/wander/public/fonts/century_supra_t3_italic.woff') format('woff');
 }
 
 @font-face {
@@ -22,7 +22,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-stretch: normal;
-	src: url('/public/fonts/century_supra_t3_bold.woff') format('woff');
+	src: url('/wander/public/fonts/century_supra_t3_bold.woff') format('woff');
 }
 
 @font-face {
@@ -30,7 +30,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-stretch: normal;
-	src: url('/public/fonts/century_supra_c3_regular.woff') format('woff');
+	src: url('/wander/public/fonts/century_supra_c3_regular.woff') format('woff');
 }
 
 @font-face {
@@ -38,7 +38,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-stretch: normal;
-	src: url('/public/fonts/neuzeit_grotesk_bold.woff') format('woff');
+	src: url('/wander/public/fonts/neuzeit_grotesk_bold.woff') format('woff');
 }
 
 @font-face {
@@ -46,7 +46,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-stretch: normal;
-	src: url('/public/fonts/neuzeit_grotesk_regular.woff') format('woff');
+	src: url('/wander/public/fonts/neuzeit_grotesk_regular.woff') format('woff');
 }
 
 body {
